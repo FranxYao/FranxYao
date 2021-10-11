@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. student at the University of Edinburgh with professor Mirella Lapata. Previously I finished my M.S. at Columbia University and B.S. at Peking University. 
+I am a Ph.D. student at the University of Edinburgh with professor Mirella Lapata. Previously I finished my M.S. at Columbia University and B.S. at Peking University. My email address is yao.fu@ed.ac.uk
 
 I try to spent my half time on ML and half time on NLP, but I define myself as an NLP person. 
 
