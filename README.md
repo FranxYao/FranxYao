@@ -4,5 +4,3 @@ I am a Ph.D. student at the University of Edinburgh with professor Mirella Lapat
 
 I study deep generative models for language generation and structured prediction. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranxYao)](https://github.com/anuraghazra/github-readme-stats)
-
