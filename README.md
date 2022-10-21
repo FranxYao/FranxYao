@@ -2,5 +2,7 @@
 
 I am a Ph.D. student at the University of Edinburgh with professor Mirella Lapata. Previously I finished my M.S. at Columbia University and B.S. at Peking University. My email address is yao.fu@ed.ac.uk
 
-I study deep generative models for language generation and structured prediction. 
+I study large language models and deep generative models.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranxYao)](https://github.com/anuraghazra/github-readme-stats)
 
