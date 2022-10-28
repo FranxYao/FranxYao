@@ -11,3 +11,5 @@ I study large language models and deep generative models.
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=FranxYao&repo=prompt-handbook&show_owner=true)]([https://github.com/FranxYao/prompt-handbook](https://github.com/FranxYao/prompt-handbook))
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=FranxYao&repo=Complexity-Based-Prompting&show_owner=true)]([https://github.com/FranxYao/Complexity-Based-Prompting](https://github.com/FranxYao/Complexity-Based-Prompting))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranxYao&repo=prompt-handbook)](https://github.com/FranxYao/prompt-handbook)
