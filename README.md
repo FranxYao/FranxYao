@@ -8,6 +8,6 @@ I study large language models and deep generative models.
 
 ### Featured Repos
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=FranxYao&repo=prompt-handbook&show_owner=true)]([https://github.com/yourusername/repo-name](https://github.com/FranxYao/prompt-handbook))
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=FranxYao&repo=prompt-handbook&show_owner=true)]([https://github.com/FranxYao/prompt-handbook](https://github.com/FranxYao/prompt-handbook))
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=FranxYao&repo=Complexity-Based-Prompting&show_owner=true)]([https://github.com/FranxYao/Complexity-Based-Prompting](https://github.com/FranxYao/Complexity-Based-Prompting))
